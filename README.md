@@ -12,9 +12,7 @@ Cindy Pistorius - 2055963
  
 We chose to use the google platform called **Google Colab** as it allowed us to work on the same file by seeing the changes in real time and also the platform allowed us to take advantage of a GPU for free, which turns out to be much faster in terms of speed of execution. 
 
-## Script descriptions:
-
----------------------------------------------------
+## Repository files description:
 
 $\bullet$ `ADM_hw2.ipynb`:
    
