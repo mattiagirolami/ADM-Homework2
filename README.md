@@ -20,6 +20,6 @@ $\bullet$ `ADM_hw2.ipynb`:
    
     This script provides the answers for all the homework questions. The entire script is already ran.
    
-$\bullet$ `commandline.sh`:
+$\bullet$ `CommandLine.sh`:
     
     The file which contains the unix based script for the analyis. 
